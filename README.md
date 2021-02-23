@@ -1,12 +1,10 @@
 # highlight_widget
 
 A custom widget
-
+![alt text](demo/demo.jpg)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
-
-[alt text](demno/demo.jpg)
 
 A few resources to get you started if this is your first Flutter project:
 
