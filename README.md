@@ -6,7 +6,7 @@ A custom widget
 
 This project is a starting point for a Flutter application.
 
-[alt text](demo.jpg)
+[alt text](demno/demo.jpg)
 
 A few resources to get you started if this is your first Flutter project:
 
