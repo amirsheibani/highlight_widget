@@ -6,7 +6,7 @@ A custom widget
 
 This project is a starting point for a Flutter application.
 
-[alt text](https://github.com/amirsheibani/highlight_widget/demo/master/demo.jpg?raw=true)
+[alt text](demo.jpg)
 
 A few resources to get you started if this is your first Flutter project:
 
